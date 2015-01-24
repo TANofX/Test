@@ -12,3 +12,4 @@ Need LEd ring info.
 What was the color of last years LED ring for the camera??
 
 It was green last year.
+Yes such Green

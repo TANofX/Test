@@ -1,1 +1,1 @@
-What?
+# What is a squash merge?
